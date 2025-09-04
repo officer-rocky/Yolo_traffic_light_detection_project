@@ -1,0 +1,26 @@
+# Virtual environments
+traffic_env/
+venv/
+env/
+Lib/
+Scripts/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files
+*.pt
+*.pth
+
+# Video/data files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# IDE
+.vscode/
+.idea/
